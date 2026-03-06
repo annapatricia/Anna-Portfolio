@@ -49,6 +49,9 @@ My work integrates:
   --- 
 
 ## 🏢 Governance, Risk & Compliance (GRC) Analytics
+- **Reinsurance 360 — Regulatory & Accounting Automation** — Regulatory compliance monitoring and risk analytics prototype for reinsurance operations. Includes automated contract validation, regulatory risk scoring, compliance reporting and interactive monitoring dashboard.
+🔗 https://github.com/annapatricia/reseguro-360-automacao-regulatoria-e-contabil
+
 - **Model Risk Scorecard (MRM)** — Model governance framework for machine learning systems including model inventory, risk tiering (materiality/complexity/usage), validation thresholds, fairness checks and automated model risk scorecard generation. 
 🔗 https://github.com/annapatricia/model-risk-scorecard
 
