@@ -142,7 +142,7 @@ End-to-end supervised ML pipeline for credit risk prediction using Logistic Regr
 - **Serviço Agente FastAPI** — Production-ready API service for AI agent deployment.  
   🔗 https://github.com/annapatricia/servico-agente-fastapi
 
-  - **ai-multi-agent-system** — Agent-based modeling of social dynamics and interaction systems.  
+- **ai-multi-agent-system** — Agent-based modeling of social dynamics and interaction systems.  
   🔗 https://github.com/annapatricia/ai-multi-agent-system
 
 
